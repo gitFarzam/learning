@@ -1,0 +1,15 @@
+{
+  "frustration": {
+    "type": "score",
+    "instructions": "How frustrated the customer appears",
+    "criteria": [
+        "Calm, just stating facts",
+        "Somewhat frustrated but civil",
+        "Moderately frustrated",
+        "Moderately frustrated but civil",
+        "Frustrated but civil",
+        "Very frustrated but civil",
+        "Very angry, using strong language"
+    ]
+  }
+}

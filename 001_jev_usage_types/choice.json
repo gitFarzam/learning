@@ -1,0 +1,11 @@
+{
+  "department": {
+    "type": "choice",
+    "instructions": "Which team should handle this",
+    "criteria": {
+      "billing": "Payment or subscription issues",
+      "technical": "Bugs or integration problems",
+      "sales": "Pricing or account questions"
+    }
+  }
+}
